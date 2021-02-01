@@ -12,7 +12,7 @@ Download from [UMLS](https://www.nlm.nih.gov/research/umls/licensedcontent/umlsa
 ```shell
 # Prepare UMLS Dataset
 mkdir umls
-# Downlaod MRCONSO.RRF, MRREL.RRF and MRSTY.RRF to umls floder
+# Download MRCONSO.RRF, MRREL.RRF and MRSTY.RRF to umls floder
 
 cd pretrain
 # For training English Version
